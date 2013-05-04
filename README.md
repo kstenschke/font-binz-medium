@@ -46,10 +46,10 @@ Now you can use this font in your css file. Here is an example of a paragraph se
 
 Source
 ------
-This release contains the original source code in the fontforge .SFD format.
+This release contains the original source code in the [FontForge](http://fontforge.org/ "FontForge") .SFD format.
 
 
 License
 -------
-Licensed under the SIL Open Font License http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+Licensed under the [SIL Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
