@@ -1,0 +1,26 @@
+FONTLOG for the Binz family fonts
+
+This file provides detailed information on the Binz family Font Software.
+This information should be distributed along with the Binz family fonts
+and any derivative works.
+
+
+Basic Font Information
+
+Binz family is a typeface family that supports all languages that
+use the Latin script and its variants. The font additionally contains major hebrew characters and various variations of accents. 
+
+This release contains the original source code in the fontforge .SFD format.
+
+To contribute to the project, please feel free to expand the font codings to include other languages, follow all of the terms of the SIL OFL v1.1 LICENSE. 
+
+
+ChangeLog
+
+7 October 2012 (Kay Stenschke, info@stenschke.com) Binz family version 1.0.0
+- Rereleased the font under the Open Font License.
+
+
+Acknowledgements
+
+If you make modifications please be sure to add your name, email, web-address and description.
