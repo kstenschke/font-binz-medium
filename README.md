@@ -1,6 +1,3 @@
-![Binz Medium](https://github.com/kstenschke/font-binz-medium/binz-sample-text.jpg)
-
-
 Binz Medium font family
 =======================
 _by [Kay Stenschke](http://www.stenschke.com)_
@@ -20,6 +17,10 @@ Partial Language Support:
 - Western European
 - Turkish (Türkçe)
 - Hebrew
+
+Sample
+------
+![Binz Medium](https://github.com/kstenschke/font-binz-medium/blob/master/binz-sample-text.jpg?raw=true)
 
 
 Binz Medium at Open Font Library
