@@ -25,7 +25,7 @@ Sample
 
 Binz Medium at Open Font Library
 --------------------------------
-http://openfontlibrary.org/en/font/binz-medium(http://openfontlibrary.org/en/font/binz-medium
+http://openfontlibrary.org/en/font/binz-medium
 
 
 Web Font
