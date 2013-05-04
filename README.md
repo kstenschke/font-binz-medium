@@ -1,4 +1,4 @@
-![Binz Medium](https://github.com/kstenschke/font-binz-medium/Binz-Sample Text.jpeg)
+![Binz Medium](https://github.com/kstenschke/font-binz-medium/binz-sample-text.jpg)
 
 
 Binz Medium font family
@@ -24,22 +24,23 @@ Partial Language Support:
 
 Binz Medium at Open Font Library
 --------------------------------
-http://openfontlibrary.org/en/font/binz-medium(http://openfontlibrary.org/en/font/binz-medium)
+http://openfontlibrary.org/en/font/binz-medium(http://openfontlibrary.org/en/font/binz-medium
 
 
 Web Font
 --------
 To use this font in your website add the following code to the head of your html page:
 
-    <link rel="stylesheet" media="screen" href="http://openfontlibrary.org/face/binz-medium" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" media="screen" href="http://openfontlibrary.org/face/binz-medium" 
+          rel="stylesheet" type="text/css"/>
 
 Now you can use this font in your css file. Here is an example of a paragraph set in BinzMedium:
 
-    p { 
-   font-family: 'Binz'; 
-   font-weight: normal; 
-   font-style: normal; 
-}
+      p { 
+        font-family: 'Binz'; 
+        font-weight: normal; 
+        font-style: normal; 
+      }
 
 
 Source
