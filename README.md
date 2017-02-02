@@ -1,6 +1,5 @@
 Binz Medium font family
 =======================
-_by [Kay Stenschke](http://www.stenschke.com)_
 
 ####A cartoonish sans-serif font face with discreet rounded curvature.
 
@@ -49,7 +48,8 @@ Source
 This release contains the original source code in the [FontForge](http://fontforge.org/ "FontForge") .SFD format.
 
 
-License
--------
+Author and License
+------------------
+The Binz Medium font was created in 2013 by Kay Stenschke using [FontForge](http://fontforge.github.io/)
 Licensed under the [SIL Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
