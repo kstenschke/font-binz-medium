@@ -51,5 +51,6 @@ This release contains the original source code in the [FontForge](http://fontfor
 Author and License
 ------------------
 The Binz Medium font was created in 2013 by Kay Stenschke using [FontForge](http://fontforge.github.io/)
+
 Licensed under the [SIL Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
