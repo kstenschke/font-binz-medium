@@ -1,9 +1,9 @@
 Binz Medium font family
 =======================
 
-####A cartoonish sans-serif font face with discreet rounded curvature.
+## A cartoonish sans-serif font face with discreet rounded curvature.
 
-###Full Language Support
+## Full Language Support
 
 - Afrikaans
 - Baltic
@@ -11,7 +11,7 @@ Binz Medium font family
 - Catalan
 - Central European
 
-###Partial Language Support
+## Partial Language Support
 
 - Western European
 - Turkish (Türkçe)
